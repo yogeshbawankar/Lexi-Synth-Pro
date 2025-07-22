@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Database file
+lexisynth.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+Dockerfile
+
+download_modal.py
